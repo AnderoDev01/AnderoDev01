@@ -19,11 +19,11 @@ body{
   height:60px;
   width:60px;
   background: #000000;
+  transition-duration:2s;
 }
 #player:hover{
  /* background:Linear-gradient(180deg,#19a5c8,#437a88);*/
   box-shadow:30px 30px #5d7075;
-  transition-duration:2s;
   
   /*animation-name: an1;
   animation-duration: 5s;*/
